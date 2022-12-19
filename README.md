@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mayank-Patel1
+- 👀 I’m interested in anime and a entry level Software engineering job.
+- 🌱 I’m currently learning Python and JavaScript.
+- 📫 Reach me at mayankp1098@gmail.com
